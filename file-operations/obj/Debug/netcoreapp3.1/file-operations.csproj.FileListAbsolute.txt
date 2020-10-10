@@ -1,0 +1,13 @@
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/bin/Debug/netcoreapp3.1/file-operations
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/bin/Debug/netcoreapp3.1/file-operations.deps.json
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/bin/Debug/netcoreapp3.1/file-operations.runtimeconfig.json
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/bin/Debug/netcoreapp3.1/file-operations.runtimeconfig.dev.json
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/bin/Debug/netcoreapp3.1/file-operations.dll
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/bin/Debug/netcoreapp3.1/file-operations.pdb
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/obj/Debug/netcoreapp3.1/file-operations.csprojAssemblyReference.cache
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/obj/Debug/netcoreapp3.1/file-operations.AssemblyInfoInputs.cache
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/obj/Debug/netcoreapp3.1/file-operations.AssemblyInfo.cs
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/obj/Debug/netcoreapp3.1/file-operations.csproj.CoreCompileInputs.cache
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/obj/Debug/netcoreapp3.1/file-operations.dll
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/obj/Debug/netcoreapp3.1/file-operations.pdb
+/home/mousamdhakal/Desktop/sixth semester/netcentric/code/first-assignment/file-operations/obj/Debug/netcoreapp3.1/file-operations.genruntimeconfig.cache
